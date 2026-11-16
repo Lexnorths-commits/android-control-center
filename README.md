@@ -19,4 +19,4 @@ cd android-control-center
 chmod +x android_control.sh
 ./android_control.sh
 
-Made with love by 1984FRIENDSTEAM - 2026
+by 1984FRIENDSTEAM - 2026
